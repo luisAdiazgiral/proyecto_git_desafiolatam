@@ -1,0 +1,3 @@
+cheetos -> 1500
+chelas -> 5000
+pastelitos -> 3000
